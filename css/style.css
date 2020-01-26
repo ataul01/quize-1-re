@@ -1,0 +1,140 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+body{
+	font-family: 'Roboto', sans-serif;
+
+	background-image: url(../img/image.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.conatainer{
+	width: 1140px;
+	margin: 0 auto;
+}
+.exam{
+width: 100%;
+
+float: left;
+
+padding: 30px 0px;
+}
+/*left part*/
+.discription{
+
+width: 50%;
+margin-top: 50px;
+float: left;
+}
+.discription h2{
+	
+font-size: 35px;
+	
+color: #bee6b5;
+}
+.discription span{
+	
+color: #f3fff3;
+}
+.discription p{
+	
+margin: 20px 0px;
+color: white;
+}
+.discription ul{
+	list-style: none;
+	color: white;
+	
+}
+.discription ul li{
+	
+}
+.discription ul li i{
+	
+}
+.btn{
+
+margin: 20px 0px;
+
+padding: 15px;
+
+background-color: #49ad9ede;
+
+border-radius: 25px;
+
+border: 1px solid #cdd6deb8;
+}
+
+.btn:hover{
+	background-color: #98ca5ad6;
+	cursor: pointer;
+	transition: 0.3s ease-in-out;
+}
+/*right part*/
+.reg-form-part{
+
+width: 50%;
+
+float: left;
+margin-top: 40px;
+}
+.reg-form{
+
+width: 70%;
+
+margin-left: 80px;
+
+
+
+float: left;
+
+    background-color: #92d4c252;
+
+
+
+padding: 50px 0px;
+
+text-align: center;
+}
+.reg-form h2{
+	
+font-size: 33px;
+	
+margin-bottom: 10px;
+	
+padding: 13px 0px;
+color: white;
+}
+.reg-form p{
+	
+font-size: 15px;
+	
+margin: 10px 0px;
+color: white;
+}
+form{
+	
+}
+input{
+
+width: 80%;
+
+padding: 9px;
+
+margin: 5px 0px;
+}
+.btn2{
+	width: 85%;
+    color: #fff;
+    background-color: #9ea285e6;
+    border: 1px solid #161616;
+    box-shadow: 4px 2px #accea5b3;
+}
+.btn2:hover{
+	background: #7d8e98c2;
+	color: white;
+	box-shadow: 4px 2px #cada0fb3;
+	cursor: pointer;
+	transition: 0.3s ease-in-out;
+}
